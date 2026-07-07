@@ -1,1 +1,9 @@
-# ai-developer-bot
+.gitignorenode_modules
+
+.env
+
+dist
+
+coverage
+
+*.log# ai-developer-bot
